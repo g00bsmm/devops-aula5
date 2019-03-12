@@ -17,7 +17,7 @@ erroInicializar = True
 else:
 
 for elemento in linha:
-if elemento != '.’:
+if elemento != '.â€™:
 
 erroInicializar = True
 
